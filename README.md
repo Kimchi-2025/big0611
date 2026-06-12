@@ -42,11 +42,17 @@ print("Hello Python!")
 <h1> HTML H1 Tag!!! <h1>
 
 ### 링크와 이미지
-링크: [Markdown 공식 문서](https://www.markdownguide.org)
+링크: [Markdown 공식 문서](https://www.markdownguide.org) https://www.markdownguide.org <br>
 이미지: ![파이썬 로고](https://www.python.org/static/img/python-logo.png)
 
 ### 표
 | 이름 | 역할 | 비고 |
-|--|--|--|
+|-----|-----|-----|
 | 홍길동 | 개발자 | 프론트 |
+
+### 할일 목록
+- [X] 보도자료 작성하기
+- [ ] 웹사이트 수정하기
+- [ ] 언론에 문의하기
+
 
