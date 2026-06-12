@@ -47,7 +47,7 @@ print("Hello Python!")
 
 ### 표
 | 이름 | 역할 | 비고 |
-|-----|-----|-----|
+|-------|-------|-------|
 | 홍길동 | 개발자 | 프론트 |
 
 ### 할일 목록
@@ -55,4 +55,12 @@ print("Hello Python!")
 - [ ] 웹사이트 수정하기
 - [ ] 언론에 문의하기
 
+### 이모지와 특수문자
+#### 이모지
+This is so funny! 😊😂🤣
 
+### 특수문자
+한글의 자음 + 한자키
+♥, ⓟ, &copy;
+
+I need to hightlight these ==very important words==
