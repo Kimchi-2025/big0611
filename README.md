@@ -84,3 +84,10 @@ This is so funny! 😊😂🤣
 ♥, ⓟ, &copy;
 
 I need to hightlight these ==very important words==
+
+### 가로줄
+* * *
+***
+*****
+- - -
+------------
