@@ -63,7 +63,7 @@ print("Hello Python!")
 This is so funny! 😊😂🤣
 
 ### 특수문자
-한글의 자음 + 한자키
+`한글의 자음` + `한자키`
 ♥, ⓟ, &copy;
 
 I need to hightlight these ==very important words==
