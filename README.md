@@ -14,7 +14,7 @@
 셋째 문단입니다.\
 저도
 문장이 두 개입니다.
----
+
 ### 스타일
 **굵게(bold)**
 
@@ -57,10 +57,10 @@ print("Hello Python!")
 ```
 
 ---
-<h1> HTML H1 Tag!!! <h1>
 
 ### 링크와 이미지
-링크: [Markdown 공식 문서](https://www.markdownguide.org) https://www.markdownguide.org <br>
+링크: [Markdown 공식 문서](https://www.markdownguide.org)
+
 이미지: ![파이썬 로고](https://www.python.org/static/img/python-logo.png)
 
 ### 표
