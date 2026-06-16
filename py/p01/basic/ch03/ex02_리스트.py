@@ -51,3 +51,8 @@ print(list2)
 
 random.shuffle(list2)
 print(list2)
+
+list2.clear()
+print(list2)
+
+del list2
