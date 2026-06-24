@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  height: 60px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #ddd;
+}
+
+main {
+  display: flex;
+  height: calc(100vh - 60px);
+}
+
+aside {
+  width: 320px;
+  padding: 16px;
+  border-right: 1px solid #ddd;
+}
+
+aside input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 8px;
+}
+
+aside button {
+  width: 100%;
+  padding: 10px;
+}
+
+#map {
+  flex: 1;
+}
