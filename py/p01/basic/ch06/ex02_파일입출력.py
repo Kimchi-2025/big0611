@@ -32,9 +32,13 @@
 # with open("일기.txt") as f:
 #     print(f.read())
 
-with open("일기.txt", "r") as f:
-    lines = f.readlines()
+# with open("일기.txt", "r") as f:
+#     lines = f.readlines()
 
-    for line in lines:
-        print(line)
+#     for line in lines:
+#         print(line)
 
+for n in [1, 2, 4, 12, 365, 1000, 10000, 100000, 1000000]:
+    x = 50*(1 + (1/n))**n
+    print(x)
+    
