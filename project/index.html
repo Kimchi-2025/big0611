@@ -18,6 +18,14 @@
 
     <section id="map"></section>
   </main>
-  <script type="text/javascript" src="https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=myz8n9dew2"></script>
+
+  <script src="https://oapi.map.naver.com/openapi/v3/maps.js?ncpKeyId=m4rxvrgqbo"></script>
+
+  <script>
+    const map = new naver.maps.Map('map', {
+      center: new naver.maps.LatLng(37.5665, 126.9780),
+      zoom: 15
+    });
+  </script>
 </body>
 </html>
