@@ -1,0 +1,13 @@
+1. 싱글 페이지 웹사이트 (Single Page Website / SPW)
+https://screen.studio
+
+2. 풀 스크린 스크롤 스냅 (Full-screen Scroll Snap)
+https://www.mega-mgccoffee.com/
+
+3. 2개 계층 드롭다운 메뉴 (2-Tier Dropdown Menu)
+https://www.kt.com/
+-> 맨 위의 메뉴 (shop / 상품 / 혜택 / 고객지원 / 마이)
+
+4. 아코디언 컴포넌트 (Accordion Component)
+https://www.notion.com/ko/product/ai
+-> 맨 아래 FAQ
