@@ -41,3 +41,39 @@ if name and age:
 # 슬라이더로 값 조정하기
 temperature = st.slider('온도를 선택하세요', 0, 40, 25)
 st.write(f'선택한 온도는 {temperature}도입니다')
+
+# 체크박스
+agree = st.checkbox('이용약관에 동의합니다')
+
+if agree:
+    st.write('동의해주셔서 감사합니다!')
+
+# 여러 개 선택하기
+hobbies = st.multiselect(
+    '취미를 선택하세요 (여러 개 선택 가능)',
+    ['독서', '영화감상', '운동', '여행', '음악감상']
+)
+
+if hobbies:
+    st.write('선택한 취미:', hobbies)
+
+
+# 날짜와 시간 입력
+from datetime import datetime
+
+today = st.date_input('날짜를 선택하세요')
+current_time = st.time_input('시간을 선택하세요')
+
+st.write(f'선택한 날짜: {today}')
+st.write(f'선택한 시간: {current_time}')
+
+# 인터넷 이미지 표시
+st.image(r'C:\ajb\Python\Python_basic\images\1.jpg', caption='예시 이미지')
+
+# 유튜브 비디오 표시
+st.video('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
+
+
+
+# 유튜브 오디오 보관함
+# 무료소리창고
