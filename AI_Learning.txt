@@ -1,0 +1,66 @@
+수학 → 머신러닝 → 신경망 → 딥러닝 → Transformer → LLM → RAG/Tool/Agent → 실제 AI 서비스
+
+[1] AI란 무엇인가
+        ↓
+[2] 데이터와 함수
+        ↓
+[3] 선형모델
+        ↓
+[4] Loss와 학습
+        ↓
+[5] 분류와 확률
+        ↓
+[6] 신경망
+        ↓
+[7] 역전파
+        ↓
+[8] 딥러닝
+        ↓
+[9] Embedding
+        ↓
+[10] Attention
+        ↓
+[11] Transformer
+        ↓
+[12] LLM
+        ↓
+[13] LLM 학습법
+        ↓
+[14] RAG / Vector DB
+        ↓
+[15] Tool Calling / Agent
+        ↓
+[16] 실제 AI 서비스 구축
+
+공부 방식
+
+이 과정에서는 매 단계를 동일한 방식으로 진행하면 좋겠습니다.
+① 직관 → ② 수식 → ③ 작은 숫자로 손계산 → ④ NumPy 직접 구현 → ⑤ PyTorch/Scikit-learn 구현 → ⑥ 실제 AI에서 어디에 사용되는지 → ⑦ 복습 문제
+
+제가 추천하는 실제 학습 순서
+전체를 약 20개 학습 단원으로 나누는 것이 가장 좋겠습니다.
+| 순서 | 학습 주제                         | Python 실습               |
+| -- | ----------------------------- | ----------------------- |
+| 1  | AI / ML / DL / LLM 개념         | 간단한 규칙 기반 모델            |
+| 2  | 데이터·Feature·Parameter         | NumPy                   |
+| 3  | Linear Model `Wx+b`           | 직접 구현                   |
+| 4  | MSE / Loss                    | 직접 구현                   |
+| 5  | 미분 / Gradient                 | NumPy                   |
+| 6  | Gradient Descent              | Linear Regression 직접 학습 |
+| 7  | Sigmoid / Logistic Regression | 직접 구현                   |
+| 8  | Softmax / Cross Entropy       | 직접 구현                   |
+| 9  | Perceptron / Neuron           | NumPy                   |
+| 10 | Neural Network / MLP          | NumPy                   |
+| 11 | Backpropagation               | 직접 구현                   |
+| 12 | PyTorch                       | MLP 학습                  |
+| 13 | CNN / RNN                     | 이미지·Sequence            |
+| 14 | Embedding                     | 문장 유사도                  |
+| 15 | Attention                     | NumPy 구현                |
+| 16 | Transformer                   | 작은 Transformer          |
+| 17 | LLM                           | 작은 언어모델                 |
+| 18 | LLM Training/Fine-tuning      | Hugging Face            |
+| 19 | RAG / Vector DB               | 문서 검색 AI                |
+| 20 | Tool / Agent / AI 서비스         | 실제 응용 프로젝트              |
+
+
+
